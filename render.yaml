@@ -9,9 +9,9 @@ services:
   autoDeploy: false
   envVars:
   - key: LINE_CHANNEL_ACCESS_TOKEN
-    sync: false
+    sync: '+QHcYZLYFGCmHeC6ftlFkbS98pq1mJTC1DcDZ4/9hquXwsiG7qFpRfEljIr6aFt8hwHrR6jh14U1ffe1XdK3UCKRiYSPUtnAJK4H7zZZN2bDA+86yKQdJEyv6kIIhC++tW107arfc6I/iDL4315VxwdB04t89/1O/w1cDnyilFU='
   - key: LINE_CHANNEL_SECRET
-    sync: false
+    sync: '43ce06ae42ea54b31ac7214fdbafb25e'
 # - type: web
 #   name: line-bot-python-flask-with-handler
 #   env: python
